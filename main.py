@@ -328,7 +328,7 @@ while True:
 
 # Reference - https://youtu.be/QFvqStqPCRU
 # Changes made:
-# 1. Added game starting, over page
+# 1. Added game start, over screen
 # 2. Added game over sound
-# 3. Added highs core saving and showing functionality
+# 3. Added high score saving and showing functionality
 # 4. Added WASD key support
